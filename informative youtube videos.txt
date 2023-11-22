@@ -1,0 +1,21 @@
+					[Fall Detection System and Location Awareness]
+					PHÁT HIỆN SỤP RỚT CHÍNH XÁC VÀ NHẬN BIẾT VỊ TRÍ
+
+- MPU6050 (Accelerometer and Gyroscope): 
+Acceleration data (https://www.youtube.com/watch?v=7VW_XVbtu9k&t=501s)
+Gyroscope data (https://www.youtube.com/watch?v=Yh6mYF3VdFQ)
+
+- 3D projection of using IMU: 
++ https://www.youtube.com/watch?v=dXcF-Uqa-gw&t=9s
++ https://www.youtube.com/watch?v=KMhbV1p3MWk&t=344s
+
+- Kalman Filter:
+https://www.youtube.com/watch?v=5HuN9iL-zxU&t=185s
+
+-GPS GY NEO-6MV2: Latitude,longitude and Altitude
+(https://randomnerdtutorials.com/guide-to-neo-6m-gps-module-with-arduino/)
+
+
+-Battery level to ensure device operability.
+(https://www.youtube.com/watch?v=yXPO6WaJDSU)
+

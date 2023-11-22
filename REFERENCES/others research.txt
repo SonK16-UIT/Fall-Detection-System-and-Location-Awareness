@@ -1,0 +1,12 @@
+https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/
+http://www.geekmomprojects.com/gyroscopes-and-accelerometers-on-a-chip/
+https://howtomechatronics.com/tutorials/arduino/how-to-track-orientation-with-arduino-and-adxl345-accelerometer/
+https://github.com/hibit-dev/mpu6050/tree/master/src/complementary_filter
+https://wokwi.com/projects/334365439123522132
+https://iotprojectsideas.com/iot-fall-detector-using-mpu6050-esp8266/
+https://randomnerdtutorials.com/esp32-mpu-6050-web-server/
+https://lastminuteengineers.com/mpu6050-accel-gyro-arduino-tutorial/
+https://howtomechatronics.com/tutorials/arduino/arduino-and-mpu6050-accelerometer-and-gyroscope-tutorial/
+https://www.hibit.dev/posts/92/complementary-filter-and-relative-orientation-with-mpu6050 
+https://www.youtube.com/watch?v=p7tjtLkIlFo
+https://github.com/mattzzw/Arduino-mpu6050
