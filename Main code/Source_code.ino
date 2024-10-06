@@ -8,8 +8,8 @@
 #include <Firebase_ESP_Client.h>
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
-#define API_KEY "AIzaSyANJeQ1QGFfUQ_YxznfFkSwawtbNBrC7lk"
-#define DATABASE_URL "https://fetch-35954-default-rtdb.firebaseio.com/"
+#define API_KEY "*"
+#define DATABASE_URL "*"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
